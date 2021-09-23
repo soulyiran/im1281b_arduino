@@ -1,0 +1,25 @@
+##################################################################
+# Syntax Coloring Map For IM1281B [Digital Energy Metering Module]
+##################################################################
+
+##################################################################
+# Datatypes (KEYWORD1)
+##################################################################
+
+IM1281B	KEYWORD1
+
+##################################################################
+# Methods and Functions (KEYWORD2)
+##################################################################
+
+begin	KEYWORD2
+update	KEYWORD2
+clearPower	KEYWORD2
+	
+getVotage		KEYWORD2
+getCurrent	    KEYWORD2
+getPower	    KEYWORD2
+getEnergy		KEYWORD2
+getPf   	    KEYWORD2
+getCO2  	    KEYWORD2
+getFreq         KEYWORD2
