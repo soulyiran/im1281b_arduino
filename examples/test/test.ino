@@ -1,5 +1,5 @@
 #include "IM1281B.h"
-
+// use ESP32 Serial2(17(TX2),16(RX2)) port conneect to im1281 sensor
 IM1281B im1281(&Serial2, 4800);
 void setup()
 {
